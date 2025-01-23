@@ -1,4 +1,4 @@
-# Bill/Invoice Generator
+# Invoice Generator
 
 A React-based web application for generating itemized bills and invoices. Users can add items, specify their quantity and price, view a summary, and download the invoice as a PDF.
 
