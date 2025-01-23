@@ -76,7 +76,11 @@ Follow these steps to run the application locally:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/600x400.png?text=Screenshot+Coming+Soon)
+<img width="1670" alt="image" src="https://github.com/user-attachments/assets/018014a1-4ee0-4a48-bcb3-c64a9bd0bb76" />
+
+<img width="1679" alt="image" src="https://github.com/user-attachments/assets/d71801c2-2f68-4d0d-93a4-009579c071fb" />
+
+
 
 ## Dependencies
 
